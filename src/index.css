@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-navy: #07182B;
+    --color-navy-surface: #0B2238;
+    --color-navy-card: #0E2942;
+    --color-navy-border: #1B3B59;
+    --color-teal: #159EAA;
+    --color-teal-hover: #128B96;
+    --color-silver: #C5CDD5;
+    --color-white: #FFFFFF;
+  }
+}
+
+.font-brand {
+  font-family: 'Archivo', sans-serif;
+}
+
+.font-mono-brand {
+  font-family: 'IBM Plex Mono', monospace;
+}

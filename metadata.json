@@ -1,0 +1,6 @@
+{
+  "name": "Store Manager Pro",
+  "description": "نظام إدارة المتاجر والمخزون والمبيعات — واجهة التشغيل والمعاينة التفاعلية لإدارة المنتجات، الفئات، وسياق المتجر وقاعدة البيانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
